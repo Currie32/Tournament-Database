@@ -1,5 +1,5 @@
 # Tournament-Database
-Wrote a Python module that uses the PostgreSQL database to keep track of players and matches in a game tournament. This was the final project in the Intro to Rational Databases from Udacity.
+Wrote a Python module that uses the PostgreSQL database to keep track of players and matches in a game tournament. This was the final project in the Intro to Rational Databases course from Udacity.
 
 Files:
 Vagrantfile - describes the type of machine required for the project, and how to configure and provision the machine.
